@@ -14,32 +14,22 @@ Egy egyszerű, de hatékony költéskövető alkalmazás Swift nyelven, amely se
 ## 🛠️ Technológiák
 
 - Swift
-- UIKit / SwiftUI
+- SwiftUI
+- WebKit
 - CoreData
 - Charts
+- AlamoFire
 
 ## 🧪 Telepítés
 
 1. Klónozd a repót:
    ```bash
-   git clone https://github.com/felhasznalonev/budget-tracker-ios.git
+   git clone https://github.com/LaszAndrea/budgetTracker.git
    ```
 
 2. Nyisd meg Xcode-dal:
    ```bash
-   open BudgetTracker.xcodeproj
+   open budgetTracker.xcodeproj
    ```
 
 3. Futtasd egy iOS szimulátoron vagy saját eszközön.
-
-## 📸 Képernyőképek
-
-## 📄 Licenc
-
-MIT License – szabadon használható, másolható és módosítható.
-
----
-
-## 🤝 Közreműködés
-
-Hibát találtál vagy ötleted van? Nyugodtan nyiss egy issue-t vagy pull requestet!
